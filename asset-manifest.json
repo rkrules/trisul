@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/trisul/static/css/main.073c9b0a.css",
+    "main.js": "/trisul/static/js/main.f4515c4b.js",
+    "static/js/787.40daceaf.chunk.js": "/trisul/static/js/787.40daceaf.chunk.js",
+    "static/media/logo.svg": "/trisul/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/trisul/index.html",
+    "main.073c9b0a.css.map": "/trisul/static/css/main.073c9b0a.css.map",
+    "main.f4515c4b.js.map": "/trisul/static/js/main.f4515c4b.js.map",
+    "787.40daceaf.chunk.js.map": "/trisul/static/js/787.40daceaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f4515c4b.js"
+  ]
+}
